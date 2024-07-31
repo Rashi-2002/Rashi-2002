@@ -1,7 +1,5 @@
 # Hello, I'm Rashi Rajak 👋
 
-![Profile views](https://gpvc.arturio.dev/Rashi-2002)
-
 ## About Me
 A motivated and detail-oriented computer science student with a strong foundation in Java programming and web development. Proficient in collaborative team environments, problem-solving, and critical thinking. Seeking opportunities to leverage technical skills and contribute to innovative projects.
 
